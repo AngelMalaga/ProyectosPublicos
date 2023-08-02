@@ -1,0 +1,88 @@
+* {
+    margin: 20PX;
+    padding: 0;
+    text-indent: 0;
+}
+
+.TR {
+    width: 557pt;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    border-left-style: solid;
+    border-left-width: 2pt;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    border-right-style: solid;
+    border-right-width: 1pt colspan="5";
+}
+
+#C1 {
+    width: 457pt;
+    border-top-style: solid;
+    border-top-width: 1pt;
+    border-left-style: solid;
+    border-left-width: 2pt;
+    border-bottom-style: solid;
+    border-bottom-width: 1pt;
+    border-right-style: solid;
+    border-right-width: 1pt colspan="5";
+}
+
+.s1 {
+    color: black;
+    font-family: "Arial Narrow", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 16pt;
+}
+
+.s2 {
+    color: black;
+    font-family: "Arial Narrow", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 11pt;
+}
+
+.s3 {
+    color: black;
+    font-family: "Arial Narrow", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+}
+.sfirmaysello {
+    color: black;
+    font-family: "Arial Narrow", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 8pt;
+}
+
+.s4 {
+    color: black;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 11pt;
+}
+
+.s5 {
+    color: black;
+    font-family: "Arial Narrow", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+
+tbody {
+    vertical-align: middle;
+    overflow: visible;
+}
